@@ -29,12 +29,3 @@ Contributions are always welcome! 👇
 
 See `contributors` branch for ways to get started.
 
-## FAQ
-
-### How can i get started?
-
-You can get started by following the YouTube tutorial of this project. Here is the full tutorial video link: [coming soon].
-
-### Who the project is for?
-
-The project is for the people who wanna get more skilled in HTML & CSS.
